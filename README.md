@@ -6,4 +6,5 @@ The dataset we chose for our final project contains emission totals per country 
 
 ## Questions we plan to answer with the project
 •	Within a given year, can we predict the CO2 level based on emissions? 
+
 •	What was the impact of any environmental protection accords on a given year? An example is the Paris Climate Agreement and the emissions impact. 
