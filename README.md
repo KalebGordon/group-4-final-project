@@ -25,7 +25,7 @@ Group 4 final project.
 
 
 
-
+[Google Slides] (https://docs.google.com/presentation/d/17nsmgnkjf4xi-R-cXexJHX-mQI7eQgDptAdhs7Cl7a0/edit?usp=sharing)
 
 [Link for Tableau Dashboard] (https://public.tableau.com/app/profile/elizabeth.cadorette/viz/Group_4_FinalProject/Sheet1?publish=yes)
 
