@@ -21,12 +21,6 @@ Created an AWS database and bucket to host our files. Afterwards, we pulled our 
 
 As a part of cleaning the data, we removed null values and renamed columns. In addition, we removed columns that were not associated with our analysis in the Causes of Death data. Afterwards, we removed every row that did not having a matching "Area" counterpart in the opposite dataframe. 
 
-### Link to Tableau Story
-
-[Emissions](https://public.tableau.com/views/Emissions_16792565110550/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Tableau Story")
-
-[Link for Tableau Dashboard](https://public.tableau.com/app/profile/elizabeth.cadorette/viz/Group_4_FinalProject/Sheet1?publish=yes "Tableau Story")
-
 ## Outline for Presentation/Visualizations:
 
 1) Intro Page - overview of the presentation
@@ -55,6 +49,12 @@ As a part of cleaning the data, we removed null values and renamed columns. In a
     - Was there other data or queries that could have been helpful
     - Any roadblocks or cool things worth sharing
     
+### Link to Tableau Story
+
+[Emissions](https://public.tableau.com/views/Emissions_16792565110550/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Tableau Story")
+
+[Link for Tableau Dashboard](https://public.tableau.com/app/profile/elizabeth.cadorette/viz/Group_4_FinalProject/Sheet1?publish=yes "Tableau Story")
+
 ### Google Slides
 
 [Google Slides](https://docs.google.com/presentation/d/17nsmgnkjf4xi-R-cXexJHX-mQI7eQgDptAdhs7Cl7a0/edit?usp=sharing "Presentation")
