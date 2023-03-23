@@ -21,6 +21,7 @@ Created an AWS database and bucket to host our files. Afterwards, we pulled our 
 
 As a part of cleaning the data, we removed null values and renamed columns. In addition, we removed columns that were not associated with our analysis in the Causes of Death data. Afterwards, we removed every row that did not having a matching "Area" counterpart in the opposite dataframe. 
 
+![total_emissions](img/total_emissions.png) ![death_df](img/death_df.png)
 ## Outline for Presentation/Visualizations:
 
 1) Intro Page - overview of the presentation
