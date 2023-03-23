@@ -21,6 +21,12 @@ Created an AWS database and bucket to host our files. Afterwards, we pulled our 
 
 As a part of cleaning the data, we removed null values and renamed columns. In addition, we removed columns that were not associated with our analysis in the Causes of Death data. Afterwards, we removed every row that did not having a matching "Area" counterpart in the opposite dataframe. 
 
+### Progress on Project
+
+![](https://github.com/KalebGordon/group-4-final-project/blob/segment-01-submission/img/progress_bar.gif)
+
+Currently the project is 33% completed.
+
 ## Outline for Presentation/Visualizations:
 
 1) Intro Page - overview of the presentation
