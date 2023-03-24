@@ -43,7 +43,7 @@ Preliminary dashboards were created in Tableau to vizualize the data to allow us
 ![](img/emissions_by_type.png)
 
 #### Emission Count by Emission Type
-![](img/emissioncount.-byemissiontypepng)
+![](img/emissioncount.-byemissiontypepng.png)
 
 #### Outdoor Air Pollution Deaths by Country
 ![](img/OutdoorAirPollutionDeathbyCountry.png)
