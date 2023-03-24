@@ -83,9 +83,6 @@ Currently the project is 33% completed.
 4) Maching Learning Model - still deciding which to do
     - Regression Model - predicting emissions next year for a country
         - Would it be interesting to do multiple?
-    - Unsupervised Learning - Finding clusters in the emission types
-        - Is there any geographical pattern that emerges from the clusters? 
-    - Neural Network Model? 
 
 5) Answered question - applying the models, what it means for the data/predictions
 
