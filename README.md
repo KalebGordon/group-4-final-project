@@ -16,14 +16,38 @@ Furthermore, we want to see if we are able to make predictions using this datase
 
 •	What was the impact of any environmental protection accords on a given year? An example is the Paris Climate Agreement and the emissions impact. 
 
-## Cleaning the Data
+# Methodoloy and Technologies Used
+
+## Data Exploration
+
+### Cleaning the Data
 Created an AWS database and bucket to host our files. Afterwards, we pulled our CSVs into a jupyter notebook and cleaned them with pyspark and pandas. Then we submitted them to our PostgreSQL server for database management in the future. 
 
 As a part of cleaning the data, we removed null values and renamed columns. In addition, we removed columns that were not associated with our analysis in the Causes of Death data. Afterwards, we removed every row that did not having a matching "Area" counterpart in the opposite dataframe. 
 
 ![total_emissions](img/total_emissions.png) ![death_df](img/death_df.png)
 
-    
+## Machine Learning
+
+### Model Choice
+
+Based on the datasets, a supervised model was selected for a linear regression model. 
+### Splitting the Data
+TBD
+
+## Dashboards
+
+Preliminary dashboards were created in Tableau to vizualize the data to allow us to view potential trends. 
+
+#### Emissions by Type
+![](img/emissions_by_type.png)
+
+#### Emission Count by Emission Type
+![](img/emissioncount.-byemissiontypepng)
+
+#### Outdoor Air Pollution Deaths by Country
+![](img/OutdoorAirPollutionDeathbyCountry.png)
+
 ### Progress on Project
 
 ![](https://github.com/KalebGordon/group-4-final-project/blob/segment-01-submission/img/progress_bar.gif)
