@@ -1,5 +1,6 @@
 # Group 4 Final Project
-    
+
+![](img/emissions.jpg)
 # Overview 
 
 ## Description of the dataset
