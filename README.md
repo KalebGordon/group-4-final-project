@@ -4,6 +4,7 @@
 # Overview 
 
 ## Description of the dataset
+
 The dataset we chose for our final project contains emission totals per country from The Food and Agriculture Organization. The dataset covers dates January 1, 2000 through December 31, 2020.  The following statistics are tracked in this dataset: area (country), item (source of emission), element (type of emission), unit (emissions = kilotons), and year (total emissions for each year). This dataset was derived from The Food and Agriculture Organization’s Emissions Total Data and The Food and Agriculture Organization’s Definitions and Standards. 
 
 ## Selected Topic and Reasoning
@@ -15,8 +16,8 @@ Furthermore, we want to see if we are able to make predictions using this datase
 ## Questions we plan to answer with the project
 •	Within a given year, we would like to predict CO2 levels based on emissions. 
 
-
 # Methodoloy and Technologies Used
+
 
 ## Data Exploration
 
@@ -24,6 +25,7 @@ Furthermore, we want to see if we are able to make predictions using this datase
 Created an AWS database and bucket to host our files. Afterwards, we pulled our CSVs into a jupyter notebook and cleaned them with pyspark and pandas. Then we submitted them to our PostgreSQL server for database management in the future. 
 
 As a part of cleaning the data, we removed null values and renamed columns. In addition, we removed columns that were not associated with our analysis in the Causes of Death data. Afterwards, we removed every row that did not having a matching "Area" counterpart in the opposite dataframe. 
+
 
 #### Total Emissions DataFrame
 ![total_emissions](img/total_emissions.png)
@@ -52,9 +54,11 @@ Preliminary dashboards were created in Tableau to vizualize the data to allow us
 #### Outdoor Air Pollution Deaths by Country
 ![](img/OutdoorAirPollutionDeathbyCountry.png)
 
+
 ### Progress on Project
 
 ![](https://github.com/KalebGordon/group-4-final-project/blob/segment-01-submission/img/progress_bar.gif)
+
 
 Currently the project is 33% completed. 
     
@@ -67,7 +71,6 @@ Currently the project is 33% completed.
 ### Google Slides
 
 [Google Slides](https://docs.google.com/presentation/d/17nsmgnkjf4xi-R-cXexJHX-mQI7eQgDptAdhs7Cl7a0/edit?usp=sharing "Presentation")
-
 
 
 ## Outline for Presentation/Visualizations:
