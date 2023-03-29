@@ -1,5 +1,6 @@
 # Group 4 Final Project
-    
+
+![](img/emissions.jpg)
 # Overview 
 
 ## Description of the dataset
@@ -15,16 +16,62 @@ Furthermore, we want to see if we are able to make predictions using this datase
 ## Questions we plan to answer with the project
 •	Within a given year, we would like to predict CO2 levels based on emissions. 
 
-## Cleaning the Data
+# Methodoloy and Technologies Used
+
+
+## Data Exploration
+
+### Cleaning the Data
 Created an AWS database and bucket to host our files. Afterwards, we pulled our CSVs into a jupyter notebook and cleaned them with pyspark and pandas. Then we submitted them to our PostgreSQL server for database management in the future. 
 
 As a part of cleaning the data, we removed null values and renamed columns. In addition, we removed columns that were not associated with our analysis in the Causes of Death data. Afterwards, we removed every row that did not having a matching "Area" counterpart in the opposite dataframe. 
+
+
+#### Total Emissions DataFrame
+![total_emissions](img/total_emissions.png)
+
+#### Causes of Death DataFrame
+![death_df](img/death_df.png)
+
+## Machine Learning
+
+### Model Choice
+
+Based on the datasets, a supervised model was selected for a linear regression model. 
+### Splitting the Data
+TBD
+
+## Dashboards
+
+Preliminary dashboards were created in Tableau to vizualize the data to allow us to view potential trends. 
+
+#### Emissions by Type
+![](img/emissions_by_type.png)
+
+#### Emission Count by Emission Type
+![](img/emissioncount.-byemissiontypepng.png)
+
+#### Outdoor Air Pollution Deaths by Country
+![](img/OutdoorAirPollutionDeathbyCountry.png)
+
 
 ### Progress on Project
 
 ![](https://github.com/KalebGordon/group-4-final-project/blob/segment-01-submission/img/progress_bar.gif)
 
-Currently the project is 33% completed.
+
+Currently the project is 33% completed. 
+    
+### Link to Tableau Story
+
+[Emissions](https://public.tableau.com/views/Emissions_16792565110550/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Tableau Story")
+
+[Link for Tableau Dashboard](https://public.tableau.com/app/profile/elizabeth.cadorette/viz/Group_4_FinalProject/Sheet1?publish=yes "Tableau Story")
+
+### Google Slides
+
+[Google Slides](https://docs.google.com/presentation/d/17nsmgnkjf4xi-R-cXexJHX-mQI7eQgDptAdhs7Cl7a0/edit?usp=sharing "Presentation")
+
 
 ## Outline for Presentation/Visualizations:
 
@@ -43,9 +90,6 @@ Currently the project is 33% completed.
 4) Maching Learning Model - still deciding which to do
     - Regression Model - predicting emissions next year for a country
         - Would it be interesting to do multiple?
-    - Unsupervised Learning - Finding clusters in the emission types
-        - Is there any geographical pattern that emerges from the clusters? 
-    - Neural Network Model? 
 
 5) Answered question - applying the models, what it means for the data/predictions
 
@@ -53,14 +97,3 @@ Currently the project is 33% completed.
     - Did the models actually answer the question
     - Was there other data or queries that could have been helpful
     - Any roadblocks or cool things worth sharing
-    
-### Link to Tableau Story
-
-[Emissions](https://public.tableau.com/views/Emissions_16792565110550/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Tableau Story")
-
-[Link for Tableau Dashboard](https://public.tableau.com/app/profile/elizabeth.cadorette/viz/Group_4_FinalProject/Sheet1?publish=yes "Tableau Story")
-
-### Google Slides
-
-[Google Slides](https://docs.google.com/presentation/d/17nsmgnkjf4xi-R-cXexJHX-mQI7eQgDptAdhs7Cl7a0/edit?usp=sharing "Presentation")
-
