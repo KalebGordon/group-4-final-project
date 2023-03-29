@@ -13,9 +13,7 @@ For this project, we opted to look at enviornmental data and see if the amount o
 Furthermore, we want to see if we are able to make predictions using this dataset and the machine learning model, and see if environmental protection agreements have had any impact on the environment and amount of emissions produced each year. 
 
 ## Questions we plan to answer with the project
-•	Within a given year, can we predict the CO2 level based on emissions? 
-
-•	What was the impact of any environmental protection accords on a given year? An example is the Paris Climate Agreement and the emissions impact. 
+•	Within a given year, we would like to predict CO2 levels based on emissions. 
 
 ## Cleaning the Data
 Created an AWS database and bucket to host our files. Afterwards, we pulled our CSVs into a jupyter notebook and cleaned them with pyspark and pandas. Then we submitted them to our PostgreSQL server for database management in the future. 
