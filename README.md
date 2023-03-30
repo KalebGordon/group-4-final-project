@@ -50,6 +50,10 @@ Based on the datasets, a supervised model was selected for a linear regression m
 ### Splitting the Data
 TBD
 
+### Confusion Matrix
+
+### Accuracy Score
+
 ## Dashboards
 
 Preliminary dashboards were created in Tableau to vizualize the data to allow us to view potential trends. 
