@@ -14,7 +14,7 @@ For this project, we opted to look at enviornmental data and see if the amount o
 Furthermore, we want to see if we are able to make predictions using this dataset and the machine learning model, and see if environmental protection agreements have had any impact on the environment and amount of emissions produced each year. 
 
 ## Questions we plan to answer with the project
-•	Within a given year, we would like to predict CO2 levels based on emissions. 
+•	Can we predict deaths in a given year, based on emissions?  
 
 # Methodoloy and Technologies Used
 
