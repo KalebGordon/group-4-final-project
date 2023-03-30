@@ -82,9 +82,4 @@ Currently the project is 33% completed.
     - Outdoor Air Pollution Table
     - Summary statistics Table(s)
 
-3) How we decided to use the data
-    - Highlight columns or point out key features of the data from the previous tab
-    - Possibly include simple visuals to help explain the data
-    - Include main question being asked
-
 
