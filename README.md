@@ -93,7 +93,3 @@ Currently the project is 33% completed.
 
 5) Answered question - applying the models, what it means for the data/predictions
 
-6) Summary
-    - Did the models actually answer the question
-    - Was there other data or queries that could have been helpful
-    - Any roadblocks or cool things worth sharing
