@@ -87,9 +87,4 @@ Currently the project is 33% completed.
     - Possibly include simple visuals to help explain the data
     - Include main question being asked
 
-4) Maching Learning Model - still deciding which to do
-    - Regression Model - predicting emissions next year for a country
-        - Would it be interesting to do multiple?
-
-5) Answered question - applying the models, what it means for the data/predictions
 
