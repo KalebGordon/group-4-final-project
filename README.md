@@ -73,13 +73,4 @@ Currently the project is 33% completed.
 [Google Slides](https://docs.google.com/presentation/d/17nsmgnkjf4xi-R-cXexJHX-mQI7eQgDptAdhs7Cl7a0/edit?usp=sharing "Presentation")
 
 
-## Outline for Presentation/Visualizations:
-
-1) Intro Page - overview of the presentation
-
-2) Snapshot of the tables being used.
-    - Total Emissions Table
-    - Outdoor Air Pollution Table
-    - Summary statistics Table(s)
-
 
