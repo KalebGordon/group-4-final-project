@@ -39,7 +39,7 @@ Because the dataset we selected was <b> panel/tabular </b> data the data had to 
 ![](img/merging_df.png)
 
 #### Finished and Cleaned Dataset
-![] (img/cleaning_df.png)
+![](img/cleaning_df.png)
 
 
 ## Machine Learning
