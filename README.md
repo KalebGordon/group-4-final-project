@@ -22,16 +22,25 @@ Furthermore, we want to see if we are able to make predictions using this datase
 ## Data Exploration
 
 ### Cleaning the Data
-Created an AWS database and bucket to host our files. Afterwards, we pulled our CSVs into a jupyter notebook and cleaned them with pyspark and pandas. Then we submitted them to our PostgreSQL server for database management in the future. 
+
+An AWS database and bucket were created to host our files. Afterwards, we pulled our CSVs into a jupyter notebook and cleaned them with Pyspark and Pandas. Then we submitted them to our PostgreSQL server for database management in the future. 
 
 As a part of cleaning the data, we removed null values and renamed columns. In addition, we removed columns that were not associated with our analysis in the Causes of Death data. Afterwards, we removed every row that did not having a matching "Area" counterpart in the opposite dataframe. 
-
 
 #### Total Emissions DataFrame
 ![total_emissions](img/total_emissions.png)
 
 #### Causes of Death DataFrame
 ![death_df](img/death_df.png)
+
+Because the dataset we selected was <b> panel/tabular </b> data the data had to be pivoted before we could upload it to PgAdmin to create our tables. However, once the data was pivoted, a list of every unique area in the dataframes was made, as well as a list of areas that were shared. Those were then pivoted and merged together, and finally the 'Reset Index' command was used on the fully merged and cleaned dataset before it was exported for our machine learning model and final visualizations.
+
+#### Merging the Datasets
+![](img/merging_df.png)
+
+#### Finished and Cleaned Dataset
+![] (img/cleaning_df.png)
+
 
 ## Machine Learning
 
@@ -60,7 +69,7 @@ Preliminary dashboards were created in Tableau to vizualize the data to allow us
 ![](https://github.com/KalebGordon/group-4-final-project/blob/segment-01-submission/img/progress_bar.gif)
 
 
-Currently the project is 33% completed. 
+Currently the project is 66% completed. 
     
 ### Link to Tableau Story
 
