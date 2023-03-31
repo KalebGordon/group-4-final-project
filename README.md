@@ -78,6 +78,7 @@ R^2: 0.0283
 
 With a low R^2 and a comparably high mean squared error in relation to our dependent variable, our model is not predictive using current data. 
 
+![](img/accuracy_score.png)
 ## Dashboards
 
 Preliminary dashboards were created in Tableau to vizualize the data to allow us to view potential trends. 
