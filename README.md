@@ -70,7 +70,7 @@ A linear regression model was created to show the deaths based on emissions.
 
 We created a 3d scatter using our variables from our linear regression model. This model confirms a visual lack of correlation between variables. 
 
-[IMAGE]
+![](img/3d_scatter.png)
 
 ### Accuracy Score
 Mean Squared Error: 7.46e-7
