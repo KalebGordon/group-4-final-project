@@ -78,10 +78,6 @@ INSERT IMAGE HERE
 
 Preliminary dashboards were created in Tableau to vizualize the data to allow us to view potential trends. 
 
-## Dashboards
-
-Preliminary dashboards were created in Tableau to vizualize the data to allow us to view potential trends. 
-
 #### Emissions by Type
 ![](img/emissions_by_type.png)
 
