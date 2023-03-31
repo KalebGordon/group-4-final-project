@@ -60,11 +60,11 @@ Based on the datasets, a supervised model was selected for a linear regression m
 
 ### Splitting the Data
 
-The x and y variables were split into training and testing sets. ____ was the x variable for the linear regression model, and the y variable was ____ . 
+The x and y variables were split into training and testing sets. Total emissions and population values were the x variable for the linear regression model, and the y variable was death rate. 
 
 INSERT IMAGE HERE
 
-A linear regression model was created to show the Deaths ____
+A linear regression model was created to show the deaths based on emissions. 
 
 ### Confusion Matrix 
 
