@@ -41,6 +41,10 @@ Because the dataset we selected was <b> panel/tabular </b> data the data had to 
 #### Finished and Cleaned Dataset
 ![](img/cleaning_df.png)
 
+#### Building and Joining the Tables
+Finally, the pivoted and cleaned dataset was imported into PgAdmin, showing the tables and columns of the dataset. Using an Entity Relationship Diagram Website, the ERD shows the columns of the dataset and how joins were made. 
+
+![](img/erd.png)
 
 ## Machine Learning
 
