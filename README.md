@@ -33,6 +33,9 @@ As a part of cleaning the data, we removed null values and renamed columns. In a
 #### Causes of Death DataFrame
 ![death_df](img/death_df.png)
 
+#### Population Data Frame
+![PopluationTable](https://user-images.githubusercontent.com/114450503/228995060-981dd4bb-e200-457d-b96e-1b783a27d9d6.png)
+
 Because the dataset we selected was <b> panel/tabular </b> data the data had to be pivoted before we could upload it to PgAdmin to create our tables. However, once the data was pivoted, a list of every unique area in the dataframes was made, as well as a list of areas that were shared. Those were then pivoted and merged together, and finally the 'Reset Index' command was used on the fully merged and cleaned dataset before it was exported for our machine learning model and final visualizations.
 
 #### Merging the Datasets
