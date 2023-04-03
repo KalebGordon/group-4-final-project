@@ -39,7 +39,7 @@ As a part of cleaning the data, we removed null values and renamed columns. In a
 #### Combined DataFrame
 ![CombinedDataFrame](https://user-images.githubusercontent.com/114450503/228995337-e5837967-91ec-4245-8445-72cade180274.png)
 
-Because the dataset we selected was <b> panel/tabular </b> data the data had to be pivoted before we could upload it to PgAdmin to create our tables. However, once the data was pivoted, a list of every unique area in the dataframes was made, as well as a list of areas that were shared. Those were then pivoted and merged together, and finally the 'Reset Index' command was used on the fully merged and cleaned dataset before it was exported for our machine learning model and final visualizations.
+Because the dataset we selected was in a wide format, the data had to be pivoted before we could upload it to PgAdmin to create our tables. However, once the data was pivoted, a list of every unique area in the dataframes was made, as well as a list of areas that were shared. Those were then pivoted and merged together, and finally the 'Reset Index' command was used on the fully merged and cleaned dataset before it was exported for our machine learning model and final visualizations.
 
 #### Merging the Datasets
 ![](img/merging_df.png)
