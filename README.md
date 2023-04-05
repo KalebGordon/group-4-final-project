@@ -50,7 +50,7 @@ Because the dataset we selected was in a wide format, the data had to be pivoted
 #### Building and Joining the Tables
 Finally, the pivoted and cleaned dataset was imported into PgAdmin, showing the tables and columns of the dataset. Using an Entity Relationship Diagram Website, the ERD shows the columns of the dataset and how joins were made. 
 
-![](img/erd.png)
+![](img/updatedERD.png)
 
 ## Machine Learning
 
