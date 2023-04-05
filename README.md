@@ -95,16 +95,16 @@ With a low R^2 and a comparably high mean squared error in relation to our depen
 An interactive dashboard was created in Tableau to allow us to vizualize the data and potential trends. 
 
 #### Emissions Dataframe
-![](img/Tableau - Chart View.PNG.png)
+![](img/emissions_dash.png)
 
 #### Emissions by Deaths
-![](img/Tableau - Chart View.PNG.png)
+![](img/scatter_dash.png)
 
 #### Countries View
-![](img/Tableau - Chart View.PNG.png)
+![](img/chart_dash.png)
 
 #### Map View
-![](img/Tableau - Map View.PNG.png)
+![](img/map_dash.png)
 
 ## Summary 
 
