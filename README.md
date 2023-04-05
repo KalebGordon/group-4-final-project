@@ -115,7 +115,7 @@ Currently the project is 66% completed.
 
 [Emissions](https://public.tableau.com/views/Emissions_16792565110550/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Tableau Story")
 
-[Link for Tableau Dashboard](https://public.tableau.com/app/profile/elizabeth.cadorette/viz/Group_4_FinalProject/Sheet1?publish=yes "Tableau Story")
+[Link for Tableau Dashboard](https://public.tableau.com/app/profile/elizabeth.cadorette/viz/Group_4_FinalProject/ExploreDataFrame)
 
 ### Google Slides
 
