@@ -72,6 +72,16 @@ We created a 3d scatter using our variables from our linear regression model. Th
 
 ![](img/3d_scatter.png)
 
+2D scatterplots were also created, using our variables from our linear regression models.
+
+![](img/deathsfrompollutionbasedonemissions.png)
+
+![](img/emissions_co2.png) 
+
+![](img/totalemissionsperyear.png)
+
+![](img/totalemissionsbasedonpopulation.png)
+
 ### Accuracy Score
 Mean Squared Error: 7.46e-7
 
