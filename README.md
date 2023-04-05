@@ -103,16 +103,18 @@ Preliminary dashboards were created in Tableau to vizualize the data to allow us
 #### Outdoor Air Pollution Deaths by Country
 ![](img/OutdoorAirPollutionDeathbyCountry.png)
 
+## Summary 
 
-### Progress on Project
+Based on our analysis of the data and the linear regression model used, we were not able to see a strong correlation between the variables. 
 
-![](https://github.com/KalebGordon/group-4-final-project/blob/segment-01-submission/img/progress_bar.gif)
+## Recommendations for Future Analysis
+
+Based on our analysis of the datasets and our machine learning model, we determined that adding in another descriptor variable, like GDP, could be helpful or narrowing down the countries to a specific number. Another helpful factor could be to find data linking a specific emission type to an illness or death. 
 
 
-Currently the project is 66% completed. 
+## Viewing the Project
     
 ### Link to Tableau Story
-
 
 [Link for Tableau Dashboard](https://public.tableau.com/views/Group_4_FinalProject/ExploreDataFrame?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -120,5 +122,7 @@ Currently the project is 66% completed.
 
 [Google Slides](https://docs.google.com/presentation/d/17nsmgnkjf4xi-R-cXexJHX-mQI7eQgDptAdhs7Cl7a0/edit?usp=sharing "Presentation")
 
+### Link to Datasets
+[Total Emissions per Country (2000-2020)](https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020 "Kaggle Dataset")
 
 
