@@ -92,16 +92,19 @@ With a low R^2 and a comparably high mean squared error in relation to our depen
 ![](img/accuracy_score.png)
 ## Dashboards
 
-Preliminary dashboards were created in Tableau to vizualize the data to allow us to view potential trends. 
+An interactive dashboard was created in Tableau to allow us to vizualize the data and potential trends. 
 
-#### Emissions by Type
-![](img/emissions_by_type.png)
+#### Emissions Dataframe
+![](img/Tableau - Chart View.PNG.png)
 
-#### Emission Count by Emission Type
-![](img/emissioncount.-byemissiontypepng.png)
+#### Emissions by Deaths
+![](img/Tableau - Chart View.PNG.png)
 
-#### Outdoor Air Pollution Deaths by Country
-![](img/OutdoorAirPollutionDeathbyCountry.png)
+#### Countries View
+![](img/Tableau - Chart View.PNG.png)
+
+#### Map View
+![](img/Tableau - Map View.PNG.png)
 
 ## Summary 
 
