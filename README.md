@@ -9,7 +9,7 @@ The dataset we chose for our final project contains emission totals per country 
 
 ## Selected Topic and Reasoning
 
-For this project, we opted to look at enviornmental data and see if the amount of emissions made by each country had any predictable trends and could be fit into a machine learning model. A dataset containing twenty years of emissions data was selected, [Total Emissions per Country (2000-2020)](https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020 "Kaggle Dataset"), in order to lead to a better predictive performance and to better fit our machine learning model. 
+For this project, we opted to look at environmental data and see if the amount of emissions made by each country had any predictable trends and could be fit into a machine learning model. A dataset containing twenty years of emissions data was selected, [Total Emissions per Country (2000-2020)](https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020 "Kaggle Dataset"), in order to lead to a better predictive performance and to better fit our machine learning model. 
 
 Furthermore, we want to see if we are able to make predictions using this dataset and the machine learning model, and see if environmental protection agreements have had any impact on the environment and amount of emissions produced each year. 
 
@@ -90,6 +90,7 @@ R^2: 0.0283
 With a low R^2 and a comparably high mean squared error in relation to our dependent variable, our model is not predictive using current data. 
 
 ![](img/accuracy_score.png)
+
 ## Dashboards
 
 An interactive dashboard was created in Tableau to allow us to vizualize the data and potential trends. 
@@ -106,11 +107,13 @@ An interactive dashboard was created in Tableau to allow us to vizualize the dat
 #### Map View
 ![](img/map_dash.png)
 
-## Summary 
+# Summary and Recommendations
+
+## Our Conclusion
 
 Based on our analysis of the data and the linear regression model used, we were not able to see a strong correlation between the variables. 
 
-## Recommendations for Future Analysis
+## For Future Analysis
 
 Based on our analysis of the datasets and our machine learning model, we determined that adding in another descriptor variable, like GDP, could be helpful or narrowing down the countries to a specific number. Another helpful factor could be to find data linking a specific emission type to an illness or death. 
 
@@ -127,5 +130,9 @@ Based on our analysis of the datasets and our machine learning model, we determi
 
 ### Link to Datasets
 [Total Emissions per Country (2000-2020)](https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020 "Kaggle Dataset")
+
+[Population, total | Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
+
+[Number of Deaths by Risk Factor | Data](https://ourworldindata.org/water-access)
 
 
